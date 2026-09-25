@@ -35,6 +35,7 @@ The project includes visualizations showing:
 - Inflation also increased rather than falling with the decline in output.
 - The visual evidence suggests that the adjustment during COVID-19 differed from the typical price-rigidity pattern.
 - The results highlight the unusual nature of the COVID-19 shock, which combined both demand-side and supply-side disruptions.
+  
 **Please refer to the doc file for detailed findings**
 
 ## Tools
