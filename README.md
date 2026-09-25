@@ -41,6 +41,5 @@ The project includes visualizations showing:
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
